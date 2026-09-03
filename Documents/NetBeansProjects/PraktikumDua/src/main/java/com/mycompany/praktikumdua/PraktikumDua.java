@@ -11,6 +11,6 @@ package com.mycompany.praktikumdua;
 public class PraktikumDua {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Haiiiii!");
     }
 }
