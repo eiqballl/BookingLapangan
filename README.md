@@ -147,7 +147,7 @@ Menampilkan proses pendaftaran customer baru beserta ID yang digenerate otomatis
 <img width="279" height="135" alt="image" src="https://github.com/user-attachments/assets/775f1394-3eec-40c4-a51e-f4f7520f4a8b" />
 
 
-### 3. tampilkan Semua Customer
+### 3. Tampilkan Semua Customer
 
 Menampilkan Semua daftar customer yang telah ditambahkan, seperti id customer, nama, dan nomor telepon.
 
@@ -167,7 +167,7 @@ Menambhkan data booking baru dengan meminta admin menginput id customer, lalu me
 
 <img width="921" height="539" alt="image" src="https://github.com/user-attachments/assets/825f5749-bb78-410e-83da-1f6aec5ee611" />
 
-### 6. Tampilkan semua booking
+### 6. Tampilkan Semua Booking
 
 Menampilkan semua daftar booking yang sudah ditambahkan.
 
