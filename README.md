@@ -5,21 +5,18 @@
 
 ## Deskripsi
 
-Sistem Booking Lapangan Badminton merupakan aplikasi berbasis console yang dibuat untuk mengelola pemesanan lapangan badminton.
-
+Sistem Booking Lapangan Badminton merupakan aplikasi berbasis console terminal yang dibuat untuk mengelola pemesanan lapangan badminton.
 Program ini memiliki beberapa fitur, seperti mendaftarkan customer, melihat daftar lapangan, membuat booking, dan melihat riwayat booking.
 
 ## Studi Kasus
 
 Studi kasus yang digunakan adalah pemesanan lapangan badminton.
-
 Lapangan dalam program ini dibagi menjadi dua jenis:
 
 1. Standard
 2. VIP
 
 Contoh lapangan Standard yang digunakan adalah Lapangan A dan Lapangan B. Sedangkan untuk lapangan VIP contohnya adalah Lapangan VIP 1 dan Lapangan VIP 2.
-
 Setiap lapangan memiliki ID, nama, dan harga per jam. Selain itu, setiap jenis lapangan memiliki atribut tambahan masing-masing.
 
 ## Struktur Class
