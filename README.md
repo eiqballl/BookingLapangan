@@ -151,17 +151,30 @@ Menampilkan proses pendaftaran customer baru beserta ID yang digenerate otomatis
 
 Menampilkan Semua daftar customer yang telah ditambahkan, seperti id customer, nama, dan nomor telepon.
 
+<img width="343" height="108" alt="image" src="https://github.com/user-attachments/assets/4a2fa6b6-4a37-41c2-b428-e82ca4ab820d" />
 
 
 ### 4. Tampilkan Semua Lapangan
 
-Menampilkan Semua daftar customer yang telah ditambahkan, seperti id customer, nama, dan nomor telepon.
+Menampilkan Semua daftar lapangan yang tersedia beserta kategori, harga sewa perjam, dan fasilitas yang tersedia.
+
+<img width="921" height="129" alt="image" src="https://github.com/user-attachments/assets/8cbb0482-7242-4dfe-9cb6-01518fae20b9" />
 
 
 ### 5. Buat Booking
 
-Menampilkan Semua daftar lapangan yang tersedia beserta kategori, harga sewa perjam, dan fasilitas yang tersedia.
+Menambhkan data booking baru dengan meminta admin menginput id customer, lalu memilih id lapangan, serta jam main. setelah itu data booking akan tersimpan beserta tarif biaya sewanya.
 
-<img width="911" height="119" alt="image" src="https://github.com/user-attachments/assets/36ce795f-7787-421a-b1fd-f3aeb643ab67" />
+<img width="921" height="539" alt="image" src="https://github.com/user-attachments/assets/825f5749-bb78-410e-83da-1f6aec5ee611" />
 
+### 6. Tampilkan semua booking
 
+Menampilkan semua daftar booking yang sudah ditambahkan.
+
+<img width="240" height="179" alt="image" src="https://github.com/user-attachments/assets/ee40509d-1022-4315-ace9-e253297f4519" />
+
+### 7. Keluar
+
+Keluar dari sistem/program saat ini.
+
+<img width="536" height="147" alt="image" src="https://github.com/user-attachments/assets/b88601e1-9b64-4ed5-a4a1-dca62c4b9e6f" />
